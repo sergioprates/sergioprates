@@ -2,40 +2,23 @@
 
 Systems architect and software developer, violinist, cavaquinist, dreamer, gamer. My name is Sérgio Prates I have +10 years of experience with technology and I love being immersed in this technological world. I love news related to scale, innovations in general and machine learning.
 
-During my time of experience, I have developed software with great quality, always applying good architectural practices and also applying automated tests, following techniques such as DDD, patterns, SOLID and others.
+During my time of experience, I have developed software with great quality, always applying good architectural practices like applying automated tests, automated pipelines, following techniques such as DDD, patterns, SOLID and others.
 
 I emphasize that I like to learn new things and I believe that this is a great motivator for people to continue on their journey looking for new challenges.
 
 A slightly more detailed description of the main technologies I worked with, companies and contributions to the community you can find on my linkedin (link below), however I leave here a list of technologies to make it easier:
 
-Clouds
+💻 Languages: | C# | Javascript | Python | SQL| Powershell | Bash
 
-* AWS
-* GCP
-* Azure
+🦋 Frontend: | Angular  | React | Vue
 
-Languages
+☁️ Clouds: | Azure | AWS | GCP 
 
-* C#
-* Javascript
-* Python
-* SQL
+💾 Databases: | MySQL | PostgreSQL | SQL Server | MongoDb |Cassandra | OracleDb | Redis | Azure CosmosDb
 
-Databases
+✉️ Queues: | RabbitMQ | Azure Service Bus | IBMMQ | Kafka
 
-* SQL Server
-* MySQL
-* OracleDb
-* MongoDb
-* Cassandra
-* CosmosDb
-* Redis
-
-Queues
-
-* RabbitMQ
-* Azure Service Bus
-* IBMMQ
+🔥 Techs: | Machine Learning | IoT | Blockchain | .NET
 
 
 
