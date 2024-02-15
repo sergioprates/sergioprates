@@ -25,14 +25,6 @@ A slightly more detailed description of the main technologies I worked with, com
 Twitter: [@sergiopratess](https://twitter.com/sergiopratess)
 LinkedIn: [sergiopratess](https://www.linkedin.com/in/sergiopratess/) 
 
-[![Giovanni Bassi's github stats](https://github-readme-stats.vercel.app/api?username=sergioprates&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioprates&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioprates&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Português
 
 Arquiteto de sistemas e desenvolvedor de software, violinista, cavaquinista, sonhador, gamer. Meu nome é Sérgio Prates tenho +10 anos de experiência no mercado de tecnologia e adoro estar imerso nesse mundo técnológico. Adoro novidades relacionadas à escala, inovações em geral e machine learning.
